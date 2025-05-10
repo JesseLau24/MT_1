@@ -19,3 +19,4 @@ sac_logs/
 *.log
 *.bin
 *.csv
+*.zst
