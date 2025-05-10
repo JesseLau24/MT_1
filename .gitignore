@@ -1,0 +1,21 @@
+# ignore myenvs
+venvs/
+.env/
+myenvs/
+
+# ignore .ipynb checkpoints
+.ipynb_checkpoints/
+
+# ignore all big zip files
+*.zip
+
+# ignore sac_logs
+sac_logs/
+
+# Example .gitignore (Modify as needed)
+*.pkl
+*.h5
+*.joblib
+*.log
+*.bin
+*.csv
